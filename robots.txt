@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.lmxwy.cn/sitemap.xml
